@@ -7,3 +7,4 @@ scikit-learn
 factor-analyzer
 mlxtend
 scipy
+statsmodels
