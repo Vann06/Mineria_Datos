@@ -3,3 +3,8 @@
 venv/
 env/
 ENV/
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
